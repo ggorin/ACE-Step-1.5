@@ -19,7 +19,7 @@ from pathlib import Path
 
 
 SCRIPT_DIR = Path(__file__).parent
-DEFAULT_REFERENCE = SCRIPT_DIR / "reference" / "biggie_reference.wav"
+DEFAULT_REFERENCE = SCRIPT_DIR / "reference" / "biggie_juicy_reference.wav"
 
 
 def separate_stems(input_path: str, output_dir: str) -> tuple[str, str]:
