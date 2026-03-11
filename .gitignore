@@ -249,6 +249,7 @@ loras/
 
 # RVC pipeline working files
 rvc_pipeline/reference/
+!rvc_pipeline/reference/catalog.json
 rvc_pipeline/temp/
 
 # macOS

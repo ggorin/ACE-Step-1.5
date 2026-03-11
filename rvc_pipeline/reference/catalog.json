@@ -1,0 +1,184 @@
+{
+  "artists": [
+    {
+      "slug": "biggie",
+      "name": "Notorious B.I.G.",
+      "genre": "hip-hop",
+      "reference": "biggie_juicy_official_acapella.wav",
+      "source_song": "Juicy",
+      "quality": 5,
+      "notes": "Official studio acapella"
+    },
+    {
+      "slug": "tupac",
+      "name": "Tupac Shakur",
+      "genre": "hip-hop",
+      "reference": "tupac_hit_em_up_acapella.wav",
+      "source_song": "Hit Em Up",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "snoop",
+      "name": "Snoop Dogg",
+      "genre": "hip-hop",
+      "reference": "snoop_gin_and_juice_acapella.wav",
+      "source_song": "Gin and Juice",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "jayz",
+      "name": "Jay-Z",
+      "genre": "hip-hop",
+      "reference": "jayz_99_problems_acapella.wav",
+      "source_song": "99 Problems",
+      "quality": 0,
+      "notes": "Pending download — Black Album Acappella release"
+    },
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "genre": "hip-hop",
+      "reference": "eminem_without_me_acapella.wav",
+      "source_song": "Without Me",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "kanye",
+      "name": "Kanye West",
+      "genre": "hip-hop",
+      "reference": "kanye_all_falls_down_acapella.wav",
+      "source_song": "All Falls Down",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "kendrick",
+      "name": "Kendrick Lamar",
+      "genre": "hip-hop",
+      "reference": "kendrick_humble_acapella.wav",
+      "source_song": "HUMBLE.",
+      "quality": 0,
+      "notes": "Pending download — may be AI-isolated"
+    },
+    {
+      "slug": "nicki",
+      "name": "Nicki Minaj",
+      "genre": "hip-hop",
+      "reference": "nicki_super_bass_acapella.wav",
+      "source_song": "Super Bass",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "sinatra",
+      "name": "Frank Sinatra",
+      "genre": "soul",
+      "reference": "sinatra_my_way_acapella.wav",
+      "source_song": "My Way",
+      "quality": 0,
+      "notes": "Pending download — 15-ch multitrack available"
+    },
+    {
+      "slug": "mercury",
+      "name": "Freddie Mercury",
+      "genre": "rock",
+      "reference": "mercury_we_are_the_champions_acapella.wav",
+      "source_song": "We Are the Champions",
+      "quality": 0,
+      "notes": "Pending download — multitrack stems available"
+    },
+    {
+      "slug": "whitney",
+      "name": "Whitney Houston",
+      "genre": "rnb",
+      "reference": "whitney_i_will_always_love_you_acapella.wav",
+      "source_song": "I Will Always Love You",
+      "quality": 0,
+      "notes": "Pending download — opening is unaccompanied vocals"
+    },
+    {
+      "slug": "mj",
+      "name": "Michael Jackson",
+      "genre": "pop",
+      "reference": "mj_billie_jean_acapella.wav",
+      "source_song": "Billie Jean",
+      "quality": 0,
+      "notes": "Pending download — multitrack stems available"
+    },
+    {
+      "slug": "amy",
+      "name": "Amy Winehouse",
+      "genre": "soul",
+      "reference": "amy_back_to_black_acapella.wav",
+      "source_song": "Back to Black",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "elvis",
+      "name": "Elvis Presley",
+      "genre": "rock",
+      "reference": "elvis_suspicious_minds_acapella.wav",
+      "source_song": "Suspicious Minds",
+      "quality": 0,
+      "notes": "Pending download — stems available"
+    },
+    {
+      "slug": "bowie",
+      "name": "David Bowie",
+      "genre": "rock",
+      "reference": "bowie_lets_dance_acapella.wav",
+      "source_song": "Let's Dance",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "cobain",
+      "name": "Kurt Cobain",
+      "genre": "rock",
+      "reference": "cobain_smells_like_teen_spirit_acapella.wav",
+      "source_song": "Smells Like Teen Spirit",
+      "quality": 0,
+      "notes": "Pending download — leaked Nevermind stems"
+    },
+    {
+      "slug": "adele",
+      "name": "Adele",
+      "genre": "pop",
+      "reference": "adele_rolling_in_the_deep_acapella.wav",
+      "source_song": "Rolling in the Deep",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "cash",
+      "name": "Johnny Cash",
+      "genre": "country",
+      "reference": "cash_hurt_acapella.wav",
+      "source_song": "Hurt",
+      "quality": 0,
+      "notes": "Pending download"
+    },
+    {
+      "slug": "marley",
+      "name": "Bob Marley",
+      "genre": "reggae",
+      "reference": "marley_redemption_song_acapella.wav",
+      "source_song": "Redemption Song",
+      "quality": 0,
+      "notes": "Pending download — near-acapella by nature"
+    },
+    {
+      "slug": "freeman",
+      "name": "Morgan Freeman",
+      "genre": "narration",
+      "reference": "freeman_shawshank_narration.wav",
+      "source_song": "Shawshank Redemption",
+      "quality": 0,
+      "notes": "Pending — experimental, best for narration intros"
+    }
+  ]
+}
